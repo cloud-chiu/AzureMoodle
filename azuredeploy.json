@@ -121,6 +121,7 @@
         },
         "moodleVersion": {
             "allowedValues": [
+                "MOODLE_311_STABLE",
                 "MOODLE_402_STABLE"
             ],
             "defaultValue": "MOODLE_402_STABLE",
@@ -194,6 +195,7 @@
         },
         "phpVersion": {
             "allowedValues": [
+                "7.4",
                 "8.1"
             ],
             "defaultValue": "8.1",
